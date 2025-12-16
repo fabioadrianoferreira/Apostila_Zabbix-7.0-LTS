@@ -13,13 +13,16 @@ Versão em pdf --> https://docs.google.com/document/d/1H6Yzn1sTVVwE-S8ke62NoNIis
 
 Versão em epub --> https://drive.google.com/file/d/1oNQVvUsUm8s-pHE0by51LgWjsTKoHLMr/view
 
-Links para baixar pelo crabgrass do riseup
+Links para baixar pelo crabgrass do riseup :
+*******************************************
 Versão em pdf --> https://crabgrass.riseup.net/assets/969043/Apostila+Zabbix+7.0+LTS+Fabio+Adriano+Ferreira+Terleski.pdf
 
 Versão em epub --> https://crabgrass.riseup.net/assets/969044/Apostila+Zabbix+7.0+LTS+Fabio+Adriano+Ferreira+Terleski.epub
 
-Links para baixar pelo zenodo
+Links para baixar pelo zenodo :
+******************************
 Versão em pdf --> https://zenodo.org/records/17955291
 
-Link para baixar no Internet Achive:
+Link para baixar no Internet Achive :
+************************************
 Versão em pdf --> https://archive.org/details/apostila-zabbix-7.0-lts-fabio-adriano-ferreira-terleski-2
