@@ -8,11 +8,14 @@ O material está sob a licença GPLv3, o que significa que você têm total libe
 Estou disponibilizando também nos links listados abaixo:
 
 Links para baixar pelo Google drives :
+**************************************
 Versão em pdf --> https://docs.google.com/document/d/1H6Yzn1sTVVwE-S8ke62NoNIisINTF6sBViigKZ5IOJc/edit?tab=t.0
+
 Versão em epub --> https://drive.google.com/file/d/1oNQVvUsUm8s-pHE0by51LgWjsTKoHLMr/view
 
 Links para baixar pelo crabgrass do riseup
 Versão em pdf --> https://crabgrass.riseup.net/assets/969043/Apostila+Zabbix+7.0+LTS+Fabio+Adriano+Ferreira+Terleski.pdf
+
 Versão em epub --> https://crabgrass.riseup.net/assets/969044/Apostila+Zabbix+7.0+LTS+Fabio+Adriano+Ferreira+Terleski.epub
 
 Links para baixar pelo zenodo
